@@ -1,23 +1,23 @@
 fact = "hola. "
 fact += "oscar."
 #'The Moon has no atmosphere.No sound can be heard on the Moon.'
-#print(fact)
+print(fact)
 
-#print("-"*40)
+print("-"*40)
 
 fact = "hola ."
 fact_2 = fact + "oscar."
 
-#print(fact_2)
-#print("-"*40)
+print(fact_2)
+print("-"*40)
 # SALTO DE LINEA
 
 salto = "hola \noscar"
-#print(salto)
-#print("-"*40)
+print(salto)
+print("-"*40)
 salto2 = '''hola
 oscar'''
-#print(salto2)
+print(salto2)
 
 # funcion "title()" comvierte la primrea letra en mayuscula 
 ej="hola como estas".title()
@@ -25,7 +25,7 @@ print(ej)
 
 ej2 ="hola como estas"
 ej2 = ej2.title()
-#print(ej2)
+print(ej2)
 
 print("-"*40)
 
